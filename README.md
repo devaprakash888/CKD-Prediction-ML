@@ -28,30 +28,33 @@ You can install the necessary libraries using the following command:
  pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost
 ```
 # Contents
-Data Loading and Preprocessing
-Load the dataset
-Handle missing values using KNN
-Feature engineering
-Data normalization and scaling
-Exploratory Data Analysis (EDA)
-Visualize the distribution of the data
-Analyze correlations between features
-Model Building
+- Data Loading and Preprocessing
+- Load the dataset
+- Handle missing values using KNN
+- Feature engineering
+- Data normalization and scaling
+- Exploratory Data Analysis (EDA)
+- Visualize the distribution of the data
+- Analyze correlations between features
+  
+## Model Building
 
-# Train various machine learning models
+Train various machine learning models
 
-K Nearest Neighbor Classifier
-Gradient Boosting Classifier
-Random Forest Classifier
-Bagging Classifier
-Averaging Model
-Train various deep learning models
+- K Nearest Neighbor Classifier
+- Gradient Boosting Classifier
+- Random Forest Classifier
+- Bagging Classifier
+- Averaging Model
 
-Deep Neural Network (ANN)
+## Train various deep learning models
+- Deep Neural Network (ANN)
+- 
 # Model Evaluation
 
-Evaluate models using appropriate metrics (e.g., accuracy, precision, recall, F1-score)
-Compare the performance of different models
+- Evaluate models using appropriate metrics (e.g., accuracy, precision, recall, F1-score)
+- Compare the performance of different models
+
 # Usage
 To run the notebook, execute the cells in order. Ensure that the dataset is correctly loaded and all necessary libraries are installed.
 
