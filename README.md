@@ -5,6 +5,7 @@ CKD_ML.ipynb: The Jupyter notebook containing all the code, analysis, and visual
 
 # Prerequisites
 Python 3.7+
+
 Jupyter Notebook
 
 # Required libraries:
@@ -17,9 +18,9 @@ tensorflow (or keras)
 xgboost
 
 # You can install the necessary libraries using the following command:
-bash
-Copy code
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost
+``` bash
+pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost ```
+
 
 # Contents
 Data Loading and Preprocessing
