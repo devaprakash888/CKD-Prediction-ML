@@ -1,27 +1,32 @@
-# CKD-Prediction-ML
-This project aims to predict chronic kidney disease (CKD) using various machine learning models. It involves data preprocessing, model building, evaluation, and comparison to identify the best performing model for CKD prediction.
-# Project Structure
-CKD_ML.ipynb: The Jupyter notebook containing all the code, analysis, and visualizations related to the CKD prediction project.
+# CKD Prediction using Machine Learning Techniques
 
-# Prerequisites
-Python 3.7+
+This project aims to predict Chronic Kidney Disease (CKD) using various machine learning models. The project involves data preprocessing, model training, evaluation, and interpretation.
 
-Jupyter Notebook
+## Project Structure
 
-# Required libraries:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-tensorflow (or keras)
-xgboost
+- `CKD_Prediction.ipynb`: The Jupyter notebook containing all the code, analysis, and visualizations related to the CKD prediction project.
+- `kidney_dataset.csv`: The dataset used for training and evaluating the models.
 
-# You can install the necessary libraries using the following command:
-``` bash
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost ```
+## Prerequisites
 
+- Python 3.7+
+- Jupyter Notebook
 
+Required libraries:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- tensorflow
+- xgboost
+
+You can install the necessary libraries using the following command:
+
+```bash
+ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost
+```
 # Contents
 Data Loading and Preprocessing
 Load the dataset
