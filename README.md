@@ -5,7 +5,7 @@ This project aims to predict Chronic Kidney Disease (CKD) using various machine 
 ## Project Structure
 
 - `CKD_Prediction.ipynb`: The Jupyter notebook containing all the code, analysis, and visualizations related to the CKD prediction project.
-- `kidney_dataset.csv`: The dataset used for training and evaluating the models.
+- `kidney_disease-new.csv`: The dataset used for training and evaluating the models.
 
 ## Prerequisites
 
